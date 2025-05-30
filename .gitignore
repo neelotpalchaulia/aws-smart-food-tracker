@@ -1,0 +1,4 @@
+﻿# Ignore Terraform build artifacts
+.terraform/
+*.exe
+*.msi
