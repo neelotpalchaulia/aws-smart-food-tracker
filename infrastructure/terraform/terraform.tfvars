@@ -1,6 +1,6 @@
 # Azure Provider Configuration
-subscription_id = "49b31184-b7aa-4a3a-91ec-37b3bcc3724f"
-tenant_id       = "70e69cff-a832-47bf-b167-3b8040e45d63"
+subscription_id = "49b31184-b7aa-4a3a-91ec-xxxxxxx"
+tenant_id       = "70e69cff-a832-47bf-b167-xxxxxxx"
 
 # Project Configuration
 location        = "eastus2"  # Changed to East US 2 which typically has good availability
